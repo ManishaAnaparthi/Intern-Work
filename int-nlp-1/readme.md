@@ -1,5 +1,12 @@
 
-**Natural Language Processing**
+
+**Content Curator Internship - DevIncept - NLP
+##  Introduction to NLP and basic implementation
+### This readme.md file comprises everything in detail about NLP 
+### my name is Manisha sushma Anaparthi and i would like ellaborate about introduction to NLP and basic practical things about NATURAL LANGUGAE PROCESSING
+
+
+**Natural Language Processing
 
 _Language is a method of communication with the help of which we can speak, read and
 write. For example, we think, we make decisions, plans and more in natural language;
