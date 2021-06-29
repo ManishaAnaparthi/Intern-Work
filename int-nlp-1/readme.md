@@ -1,22 +1,31 @@
 
 
-**Content Curator Internship - DevIncept - NLP
-##  Introduction to NLP and basic implementation
-### This readme.md file comprises everything in detail about NLP 
-### my name is Manisha sushma Anaparthi and i would like ellaborate about introduction to NLP and basic practical things about NATURAL LANGUGAE PROCESSING
+# NLP : introduction to NLP & Implementation
+## **Folder contains**:
+1. **Description** 
+2. **Implementation**
 
+## **Aim**: **demonstrate how the NLP is cutting edge in the modern era and implementation**
+### Overview Of NLP
+* ###### What is natural process language?
+* ###### Where we can use NLP?  
+* ###### Background work of NLP  so called History
+* ###### Features and applications of NLP
+* ###### How to create NLP libraries?
+* ###### Sample examples of libraries
+* ###### NLTK Libraries and samples
+* ###### Numpy Libraries and samples
+* ###### pandas Libraries and samples
+* ###### scipy libraries and samples
+* ###### difference between AI,ML,DL,NLP
+* ###### techniques used in NLP
+* ###### Additional Concept: neuro linguistic programming
+* ###### Explore the NLP Concepts
+* ###### Problems for Practice
+* ###### Summary
 
-**Natural Language Processing
+## **Team Name**: int-nlp-1
 
-_Language is a method of communication with the help of which we can speak, read and
-write. For example, we think, we make decisions, plans and more in natural language;
-precisely, in words. However, the big question that confronts us in this AI era is that can
-we communicate in a similar manner with computers. In other words, can human beings
-communicate with computers in their natural language? It is a challenge for us to develop
-NLP applications because computers need structured data, but human speech is
-unstructured and often ambiguous in nature.
-In this sense, we can say that Natural Language Processing (NLP) is the sub-field of
-Computer Science especially Artificial Intelligence (AI) that is concerned about enabling
-computers to understand and process human language. Technically, the main task of NLP
-would be to program computers for analyzing and processing huge amount of natural
-language data.
+### Team Members
+* *Manisha sushma A*   :   Content Writing , Video Recording and Explanation   
+Readme.md , Video editing , creating pull request.
