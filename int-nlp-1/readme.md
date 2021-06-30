@@ -1,12 +1,12 @@
 
 
-# NLP : introduction to NLP & Implementation
+# NLP : introduction to NLP & Implementation 👩‍💻
 ## **Folder contains**:
 1. **Description** 
 2. **Implementation**
 
 ## **Aim**: **demonstrate how the NLP is cutting edge in the modern era and implementation**
-### Overview Of NLP
+### Overview Of NLP 
 * ###### What is natural process language?
 * ###### Where we can use NLP?  
 * ######  History and background work of NLP
