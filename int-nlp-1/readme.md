@@ -9,14 +9,14 @@
 ### Overview Of NLP
 * ###### What is natural process language?
 * ###### Where we can use NLP?  
-* ###### Background work of NLP  so called History
+* ######  History and background work of NLP
 * ###### Features and applications of NLP
 * ###### How to create NLP libraries?
 * ###### Sample examples of libraries
-* ###### NLTK Libraries and samples
-* ###### Numpy Libraries and samples
-* ###### pandas Libraries and samples
-* ###### scipy libraries and samples
+* ###### NLTK Library and samples
+* ###### Numpy Library and samples
+* ###### pandas Library and samples
+* ###### spaCY library and samples
 * ###### difference between AI,ML,DL,NLP
 * ###### techniques used in NLP
 * ###### Additional Concept: neuro linguistic programming
@@ -27,5 +27,5 @@
 ## **Team Name**: int-nlp-1
 
 ### Team Members
-* *Manisha sushma A*   :   Content Writing , Video Recording and Explanation   
+* *Manisha sushma A*   :  Content Writing , Video Recording and Explanation   
 Readme.md , Video editing , creating pull request.
