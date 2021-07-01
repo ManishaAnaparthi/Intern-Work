@@ -1051,7 +1051,7 @@ Spacy, instead, provides one out-of-box solution for each problem. You don’t h
 
 Despite the popularity of these two libraries, there are many different options, and the choice which NLP package to choose depends on the specific problem you have to solve. So, if you happen to know other useful NLP library, please let our readers know in the comment section.
 
- ![image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fitnext.io%2Fintroduction-to-natural-language-processing-nlp-tools-for-python-cf39af3cfc64&psig=AOvVaw17RdsMjoIeow4dcbeSY8CU&ust=1625200036967000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCLDo7o-EwfECFQAAAAAdAAAAABAD)
+ ![image](https://miro.medium.com/max/960/0*xLRsbQ02J7sQpNNy)
    
 With conversational systems steadily becoming the norm, the need for our solutions to recognize our day-to-day speech grows. Natural Language Processing has enabled us to simplify this for the computers and create the next generation of solutions that will be smarter than today's. In this ever-changing world, Python has proved itself to be capable enough to adapt, innovate and deliver solutions to a large variety of modern computational problems that have plagued us in the past.
    
