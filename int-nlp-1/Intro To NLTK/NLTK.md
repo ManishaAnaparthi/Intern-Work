@@ -124,7 +124,8 @@ word_tokenize module
 word_tokenize module is used for basic word tokenization. Following example will use this module to split a sentence into words.
 
 
+Here’s how to import the relevant parts of NLTK so you can tokenize by word and by sentence:
 
-
+>>> from nltk.tokenize import sent_tokenize, word_tokenize
   
   
